@@ -1,0 +1,1 @@
+- [ссылка на видос с с установкой Unity + OpenXr и тд](https://youtu.be/8r2Fzwca20Y?si=bFaB6eFdLQEc98R-)
